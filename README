@@ -1,0 +1,8 @@
+Ting Yao (ty168)
+press 'r' to get a new map
+press 'c' to reset everything
+press 'enter' to start or pause the search
+press '1' for Repeated Forward A*
+press '2' for My Version of Repeated Forward A*
+press '3' for Repeated Backward A*
+press '4' for RFA with big g value
